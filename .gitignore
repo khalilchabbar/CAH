@@ -1,0 +1,8 @@
+# Images générées
+*.png
+*.jpg
+*.jpeg
+
+# Dossier spécifique
+images/
+output/
